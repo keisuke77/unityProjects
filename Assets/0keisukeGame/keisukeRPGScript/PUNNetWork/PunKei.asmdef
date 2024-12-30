@@ -1,0 +1,25 @@
+{
+    "name": "PunKeis",
+    "rootNamespace": "",
+    "references": [
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:08a110bd598f7604f9519c2d7e1fb3cc",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:23eed6c2401dca1419d1ebd180e58c5a",
+        "GUID:0cfbad906dd4c484ca8f320221970b1d",
+        "GUID:47a75da884ac5c24294ae1989c07e7b7",
+        "GUID:58c583e0f53cbdb4b9a220bf432cfa66",
+        "GUID:9f9fb491d9008834182a22cb71ac7aa6",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,829 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4283472200414978594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3475129549934475416}
+  - component: {fileID: 7411252893089751778}
+  - component: {fileID: 9175976910808473406}
+  - component: {fileID: 7969065806151471002}
+  m_Layer: 0
+  m_Name: NPCtemplate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3475129549934475416
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283472200414978594}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 135.15428, y: 0.036623955, z: 113.5}
+  m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &7411252893089751778
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283472200414978594}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 7f67a7df2a12044459ca24ac2681da71, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: '
+
+    Transform ''Finger1_L.003'' has been deleted
+
+    Transform
+    ''Finger1_L.002'' has been deleted
+
+    Transform ''Finger1_L.001'' has been
+    deleted
+
+    Transform ''Finger2_L.003'' has been deleted
+
+    Transform ''Finger2_L.002''
+    has been deleted
+
+    Transform ''Finger2_L.001'' has been deleted
+
+    Transform
+    ''Finger3_L.003'' has been deleted
+
+    Transform ''Finger3_L.002'' has been
+    deleted
+
+    Transform ''Finger3_L.001'' has been deleted
+
+    Transform ''Finger4_L.003''
+    has been deleted
+
+    Transform ''Finger4_L.002'' has been deleted
+
+    Transform
+    ''Finger4_L.001'' has been deleted
+
+    Transform ''Finger5_L.003'' has been
+    deleted
+
+    Transform ''Finger5_L.002'' has been deleted
+
+    Transform ''Finger5_L.001''
+    has been deleted
+
+    Transform ''Hand_L'' has been deleted
+
+    Transform ''Arm_L.002''
+    has been deleted
+
+    Transform ''Arm_L.001'' has been deleted
+
+    Transform
+    ''Arm_L'' has been deleted
+
+    Transform ''Chest_L'' has been deleted
+
+    Transform
+    ''Finger1_R.003'' has been deleted
+
+    Transform ''Finger1_R.002'' has been
+    deleted
+
+    Transform ''Finger1_R.001'' has been deleted
+
+    Transform ''Finger2_R.003''
+    has been deleted
+
+    Transform ''Finger2_R.002'' has been deleted
+
+    Transform
+    ''Finger2_R.001'' has been deleted
+
+    Transform ''Finger3_R.003'' has been
+    deleted
+
+    Transform ''Finger3_R.002'' has been deleted
+
+    Transform ''Finger3_R.001''
+    has been deleted
+
+    Transform ''Finger4_R.003'' has been deleted
+
+    Transform
+    ''Finger4_R.002'' has been deleted
+
+    Transform ''Finger4_R.001'' has been
+    deleted
+
+    Transform ''Finger5_R.003'' has been deleted
+
+    Transform ''Finger5_R.002''
+    has been deleted
+
+    Transform ''Finger5_R.001'' has been deleted
+
+    Transform
+    ''Hand_R'' has been deleted
+
+    Transform ''Arm_R.002'' has been deleted
+
+    Transform
+    ''Arm_R.001'' has been deleted
+
+    Transform ''Arm_R'' has been deleted
+
+    Transform
+    ''Chest_R'' has been deleted
+
+    Transform ''Hair1'' has been deleted
+
+    Transform
+    ''Bone_Hair'' has been deleted
+
+    Transform ''Eye_L'' has been deleted
+
+    Transform
+    ''Eye_R'' has been deleted
+
+    Transform ''Head'' has been deleted
+
+    Transform
+    ''D_Head'' has been deleted
+
+    Transform ''Chest'' has been deleted
+
+    Transform
+    ''D_Chest'' has been deleted
+
+    Transform ''Leg_L.004'' has been deleted
+
+    Transform
+    ''Leg_L.003'' has been deleted
+
+    Transform ''Leg_L.002'' has been deleted
+
+    Transform
+    ''Leg_L.001'' has been deleted
+
+    Transform ''Leg_L'' has been deleted
+
+    Transform
+    ''Leg_R.004'' has been deleted
+
+    Transform ''Leg_R.003'' has been deleted
+
+    Transform
+    ''Leg_R.002'' has been deleted
+
+    Transform ''Leg_R.001'' has been deleted
+
+    Transform
+    ''Leg_R'' has been deleted
+
+    Transform ''Weist'' has been deleted
+
+    Transform
+    ''D_Weist'' has been deleted
+
+    Transform ''IK_Body'' has been deleted
+
+    Transform
+    ''Master'' has been deleted
+
+    Transform ''Bone_Body'' has been deleted'
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &9175976910808473406
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283472200414978594}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 14.23, y: 6, z: 14}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &7969065806151471002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4283472200414978594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e66128dc2cad7f4da374e4ea03faa91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cooldown: 0
+  once: 0
+  firstinteraction:
+    animstringbool:
+      boolname: 
+      check: 0
+    messagetext: "aaaaaa<>\u3046\u3093\u3053"
+    colidecall: 0
+    autoprocess: 0
+    save: 0
+    interactiontext: "\u8A71\u3057\u304B\u3051\u308B"
+    kaiwaendevents:
+      m_PersistentCalls:
+        m_Calls: []
+    interactionevent:
+      m_PersistentCalls:
+        m_Calls: []
+    scenename: 
+    warpdata: {fileID: 0}
+    animpos: {fileID: 0}
+    shopset: {fileID: 0}
+    atractcamera: 0
+    multcamera: 1
+    RandomItemkind: {fileID: 0}
+    CameraSetting: {fileID: 11400000, guid: a5b179c34ec12eb4198ca169622d7983, type: 2}
+    once: 0
+    endvanish: 0
+    count: 0
+    needitem: {fileID: 0}
+    Itemkind: {fileID: 0}
+    suceeesaction:
+      animstringbool:
+        boolname: 
+        check: 0
+      messagetext: 
+      colidecall: 0
+      autoprocess: 0
+      save: 0
+      interactiontext: 
+      kaiwaendevents:
+        m_PersistentCalls:
+          m_Calls: []
+      interactionevent:
+        m_PersistentCalls:
+          m_Calls: []
+      scenename: 
+      warpdata: {fileID: 0}
+      animpos: {fileID: 0}
+      shopset: {fileID: 0}
+      atractcamera: 0
+      multcamera: 0
+      RandomItemkind: {fileID: 0}
+      CameraSetting: {fileID: 0}
+      once: 0
+      endvanish: 0
+      count: 0
+      needitem: {fileID: 0}
+      Itemkind: {fileID: 0}
+      suceeesaction:
+        animstringbool:
+          boolname: 
+          check: 0
+        messagetext: 
+        colidecall: 0
+        autoprocess: 0
+        save: 0
+        interactiontext: 
+        kaiwaendevents:
+          m_PersistentCalls:
+            m_Calls: []
+        interactionevent:
+          m_PersistentCalls:
+            m_Calls: []
+        scenename: 
+        warpdata: {fileID: 0}
+        animpos: {fileID: 0}
+        shopset: {fileID: 0}
+        atractcamera: 0
+        multcamera: 0
+        RandomItemkind: {fileID: 0}
+        CameraSetting: {fileID: 0}
+        once: 0
+        endvanish: 0
+        count: 0
+        needitem: {fileID: 0}
+        Itemkind: {fileID: 0}
+        suceeesaction:
+          animstringbool:
+            boolname: 
+            check: 0
+          messagetext: 
+          colidecall: 0
+          autoprocess: 0
+          save: 0
+          interactiontext: 
+          kaiwaendevents:
+            m_PersistentCalls:
+              m_Calls: []
+          interactionevent:
+            m_PersistentCalls:
+              m_Calls: []
+          scenename: 
+          warpdata: {fileID: 0}
+          animpos: {fileID: 0}
+          shopset: {fileID: 0}
+          atractcamera: 0
+          multcamera: 0
+          RandomItemkind: {fileID: 0}
+          CameraSetting: {fileID: 0}
+          once: 0
+          endvanish: 0
+          count: 0
+          needitem: {fileID: 0}
+          Itemkind: {fileID: 0}
+          suceeesaction:
+            animstringbool:
+              boolname: 
+              check: 0
+            messagetext: 
+            colidecall: 0
+            autoprocess: 0
+            save: 0
+            interactiontext: 
+            kaiwaendevents:
+              m_PersistentCalls:
+                m_Calls: []
+            interactionevent:
+              m_PersistentCalls:
+                m_Calls: []
+            scenename: 
+            warpdata: {fileID: 0}
+            animpos: {fileID: 0}
+            shopset: {fileID: 0}
+            atractcamera: 0
+            multcamera: 0
+            RandomItemkind: {fileID: 0}
+            CameraSetting: {fileID: 0}
+            once: 0
+            endvanish: 0
+            count: 0
+            needitem: {fileID: 0}
+            Itemkind: {fileID: 0}
+            suceeesaction:
+              animstringbool:
+                boolname: 
+                check: 0
+              messagetext: 
+              colidecall: 0
+              autoprocess: 0
+              save: 0
+              interactiontext: 
+              kaiwaendevents:
+                m_PersistentCalls:
+                  m_Calls: []
+              interactionevent:
+                m_PersistentCalls:
+                  m_Calls: []
+              scenename: 
+              warpdata: {fileID: 0}
+              animpos: {fileID: 0}
+              shopset: {fileID: 0}
+              atractcamera: 0
+              multcamera: 0
+              RandomItemkind: {fileID: 0}
+              CameraSetting: {fileID: 0}
+              once: 0
+              endvanish: 0
+              count: 0
+              needitem: {fileID: 0}
+              Itemkind: {fileID: 0}
+              suceeesaction:
+                animstringbool:
+                  boolname: 
+                  check: 0
+                messagetext: 
+                colidecall: 0
+                autoprocess: 0
+                save: 0
+                interactiontext: 
+                kaiwaendevents:
+                  m_PersistentCalls:
+                    m_Calls: []
+                interactionevent:
+                  m_PersistentCalls:
+                    m_Calls: []
+                scenename: 
+                warpdata: {fileID: 0}
+                animpos: {fileID: 0}
+                shopset: {fileID: 0}
+                atractcamera: 0
+                multcamera: 0
+                RandomItemkind: {fileID: 0}
+                CameraSetting: {fileID: 0}
+                once: 0
+                endvanish: 0
+                count: 0
+                needitem: {fileID: 0}
+                Itemkind: {fileID: 0}
+                suceeesaction:
+                  animstringbool:
+                    boolname: 
+                    check: 0
+                  messagetext: 
+                  colidecall: 0
+                  autoprocess: 0
+                  save: 0
+                  interactiontext: 
+                  kaiwaendevents:
+                    m_PersistentCalls:
+                      m_Calls: []
+                  interactionevent:
+                    m_PersistentCalls:
+                      m_Calls: []
+                  scenename: 
+                  warpdata: {fileID: 0}
+                  animpos: {fileID: 0}
+                  shopset: {fileID: 0}
+                  atractcamera: 0
+                  multcamera: 0
+                  RandomItemkind: {fileID: 0}
+                  CameraSetting: {fileID: 0}
+                  once: 0
+                  endvanish: 0
+                  count: 0
+                  needitem: {fileID: 0}
+                  Itemkind: {fileID: 0}
+                  suceeesaction:
+                    animstringbool:
+                      boolname: 
+                      check: 0
+                    messagetext: 
+                    colidecall: 0
+                    autoprocess: 0
+                    save: 0
+                    interactiontext: 
+                    kaiwaendevents: {}
+                    interactionevent: {}
+                    scenename: 
+                    warpdata: {fileID: 0}
+                    animpos: {fileID: 0}
+                    shopset: {fileID: 0}
+                    atractcamera: 0
+                    multcamera: 0
+                    RandomItemkind: {fileID: 0}
+                    CameraSetting: {fileID: 0}
+                    once: 0
+                    endvanish: 0
+                    count: 0
+                    needitem: {fileID: 0}
+                    Itemkind: {fileID: 0}
+                    suceeesaction:
+                      animstringbool:
+                        boolname: 
+                        check: 0
+                      messagetext: 
+                      colidecall: 0
+                      autoprocess: 0
+                      save: 0
+                      interactiontext: 
+                      scenename: 
+                      warpdata: {fileID: 0}
+                      animpos: {fileID: 0}
+                      shopset: {fileID: 0}
+                      atractcamera: 0
+                      multcamera: 0
+                      RandomItemkind: {fileID: 0}
+                      CameraSetting: {fileID: 0}
+                      once: 0
+                      endvanish: 0
+                      count: 0
+                      needitem: {fileID: 0}
+                      Itemkind: {fileID: 0}
+                      suceeesaction:
+                        messagetext: 
+                        colidecall: 0
+                        autoprocess: 0
+                        save: 0
+                        interactiontext: 
+                        scenename: 
+                        atractcamera: 0
+                        multcamera: 0
+                        once: 0
+                        endvanish: 0
+                        count: 0
+                        lookat: 0
+                      lookat: 0
+                    lookat: 0
+                  lookat: 0
+                lookat: 0
+              lookat: 0
+            lookat: 0
+          lookat: 0
+        lookat: 0
+      lookat: 0
+    lookat: 1
+  nowinteraction:
+    animstringbool:
+      boolname: 
+      check: 0
+    messagetext: 
+    colidecall: 0
+    autoprocess: 0
+    save: 0
+    interactiontext: 
+    kaiwaendevents:
+      m_PersistentCalls:
+        m_Calls: []
+    interactionevent:
+      m_PersistentCalls:
+        m_Calls: []
+    scenename: 
+    warpdata: {fileID: 0}
+    animpos: {fileID: 0}
+    shopset: {fileID: 0}
+    atractcamera: 0
+    multcamera: 0
+    RandomItemkind: {fileID: 0}
+    CameraSetting: {fileID: 0}
+    once: 0
+    endvanish: 0
+    count: 0
+    needitem: {fileID: 0}
+    Itemkind: {fileID: 0}
+    suceeesaction:
+      animstringbool:
+        boolname: 
+        check: 0
+      messagetext: 
+      colidecall: 0
+      autoprocess: 0
+      save: 0
+      interactiontext: 
+      kaiwaendevents:
+        m_PersistentCalls:
+          m_Calls: []
+      interactionevent:
+        m_PersistentCalls:
+          m_Calls: []
+      scenename: 
+      warpdata: {fileID: 0}
+      animpos: {fileID: 0}
+      shopset: {fileID: 0}
+      atractcamera: 0
+      multcamera: 0
+      RandomItemkind: {fileID: 0}
+      CameraSetting: {fileID: 0}
+      once: 0
+      endvanish: 0
+      count: 0
+      needitem: {fileID: 0}
+      Itemkind: {fileID: 0}
+      suceeesaction:
+        animstringbool:
+          boolname: 
+          check: 0
+        messagetext: 
+        colidecall: 0
+        autoprocess: 0
+        save: 0
+        interactiontext: 
+        kaiwaendevents:
+          m_PersistentCalls:
+            m_Calls: []
+        interactionevent:
+          m_PersistentCalls:
+            m_Calls: []
+        scenename: 
+        warpdata: {fileID: 0}
+        animpos: {fileID: 0}
+        shopset: {fileID: 0}
+        atractcamera: 0
+        multcamera: 0
+        RandomItemkind: {fileID: 0}
+        CameraSetting: {fileID: 0}
+        once: 0
+        endvanish: 0
+        count: 0
+        needitem: {fileID: 0}
+        Itemkind: {fileID: 0}
+        suceeesaction:
+          animstringbool:
+            boolname: 
+            check: 0
+          messagetext: 
+          colidecall: 0
+          autoprocess: 0
+          save: 0
+          interactiontext: 
+          kaiwaendevents:
+            m_PersistentCalls:
+              m_Calls: []
+          interactionevent:
+            m_PersistentCalls:
+              m_Calls: []
+          scenename: 
+          warpdata: {fileID: 0}
+          animpos: {fileID: 0}
+          shopset: {fileID: 0}
+          atractcamera: 0
+          multcamera: 0
+          RandomItemkind: {fileID: 0}
+          CameraSetting: {fileID: 0}
+          once: 0
+          endvanish: 0
+          count: 0
+          needitem: {fileID: 0}
+          Itemkind: {fileID: 0}
+          suceeesaction:
+            animstringbool:
+              boolname: 
+              check: 0
+            messagetext: 
+            colidecall: 0
+            autoprocess: 0
+            save: 0
+            interactiontext: 
+            kaiwaendevents:
+              m_PersistentCalls:
+                m_Calls: []
+            interactionevent:
+              m_PersistentCalls:
+                m_Calls: []
+            scenename: 
+            warpdata: {fileID: 0}
+            animpos: {fileID: 0}
+            shopset: {fileID: 0}
+            atractcamera: 0
+            multcamera: 0
+            RandomItemkind: {fileID: 0}
+            CameraSetting: {fileID: 0}
+            once: 0
+            endvanish: 0
+            count: 0
+            needitem: {fileID: 0}
+            Itemkind: {fileID: 0}
+            suceeesaction:
+              animstringbool:
+                boolname: 
+                check: 0
+              messagetext: 
+              colidecall: 0
+              autoprocess: 0
+              save: 0
+              interactiontext: 
+              kaiwaendevents:
+                m_PersistentCalls:
+                  m_Calls: []
+              interactionevent:
+                m_PersistentCalls:
+                  m_Calls: []
+              scenename: 
+              warpdata: {fileID: 0}
+              animpos: {fileID: 0}
+              shopset: {fileID: 0}
+              atractcamera: 0
+              multcamera: 0
+              RandomItemkind: {fileID: 0}
+              CameraSetting: {fileID: 0}
+              once: 0
+              endvanish: 0
+              count: 0
+              needitem: {fileID: 0}
+              Itemkind: {fileID: 0}
+              suceeesaction:
+                animstringbool:
+                  boolname: 
+                  check: 0
+                messagetext: 
+                colidecall: 0
+                autoprocess: 0
+                save: 0
+                interactiontext: 
+                kaiwaendevents:
+                  m_PersistentCalls:
+                    m_Calls: []
+                interactionevent:
+                  m_PersistentCalls:
+                    m_Calls: []
+                scenename: 
+                warpdata: {fileID: 0}
+                animpos: {fileID: 0}
+                shopset: {fileID: 0}
+                atractcamera: 0
+                multcamera: 0
+                RandomItemkind: {fileID: 0}
+                CameraSetting: {fileID: 0}
+                once: 0
+                endvanish: 0
+                count: 0
+                needitem: {fileID: 0}
+                Itemkind: {fileID: 0}
+                suceeesaction:
+                  animstringbool:
+                    boolname: 
+                    check: 0
+                  messagetext: 
+                  colidecall: 0
+                  autoprocess: 0
+                  save: 0
+                  interactiontext: 
+                  kaiwaendevents:
+                    m_PersistentCalls:
+                      m_Calls: []
+                  interactionevent:
+                    m_PersistentCalls:
+                      m_Calls: []
+                  scenename: 
+                  warpdata: {fileID: 0}
+                  animpos: {fileID: 0}
+                  shopset: {fileID: 0}
+                  atractcamera: 0
+                  multcamera: 0
+                  RandomItemkind: {fileID: 0}
+                  CameraSetting: {fileID: 0}
+                  once: 0
+                  endvanish: 0
+                  count: 0
+                  needitem: {fileID: 0}
+                  Itemkind: {fileID: 0}
+                  suceeesaction:
+                    animstringbool:
+                      boolname: 
+                      check: 0
+                    messagetext: 
+                    colidecall: 0
+                    autoprocess: 0
+                    save: 0
+                    interactiontext: 
+                    kaiwaendevents: {}
+                    interactionevent: {}
+                    scenename: 
+                    warpdata: {fileID: 0}
+                    animpos: {fileID: 0}
+                    shopset: {fileID: 0}
+                    atractcamera: 0
+                    multcamera: 0
+                    RandomItemkind: {fileID: 0}
+                    CameraSetting: {fileID: 0}
+                    once: 0
+                    endvanish: 0
+                    count: 0
+                    needitem: {fileID: 0}
+                    Itemkind: {fileID: 0}
+                    suceeesaction:
+                      animstringbool:
+                        boolname: 
+                        check: 0
+                      messagetext: 
+                      colidecall: 0
+                      autoprocess: 0
+                      save: 0
+                      interactiontext: 
+                      scenename: 
+                      warpdata: {fileID: 0}
+                      animpos: {fileID: 0}
+                      shopset: {fileID: 0}
+                      atractcamera: 0
+                      multcamera: 0
+                      RandomItemkind: {fileID: 0}
+                      CameraSetting: {fileID: 0}
+                      once: 0
+                      endvanish: 0
+                      count: 0
+                      needitem: {fileID: 0}
+                      Itemkind: {fileID: 0}
+                      suceeesaction:
+                        messagetext: 
+                        colidecall: 0
+                        autoprocess: 0
+                        save: 0
+                        interactiontext: 
+                        scenename: 
+                        atractcamera: 0
+                        multcamera: 0
+                        once: 0
+                        endvanish: 0
+                        count: 0
+                        lookat: 0
+                      lookat: 0
+                    lookat: 0
+                  lookat: 0
+                lookat: 0
+              lookat: 0
+            lookat: 0
+          lookat: 0
+        lookat: 0
+      lookat: 0
+    lookat: 0

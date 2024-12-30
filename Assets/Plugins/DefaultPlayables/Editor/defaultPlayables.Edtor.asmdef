@@ -1,0 +1,19 @@
+{
+    "name": "defaultPlayables.Edtor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d2e034dd3ee2c6048bb463b38329fb8b",
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

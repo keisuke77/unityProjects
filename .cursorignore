@@ -1,0 +1,33 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+# インデックス化中に無視するディレクトリやファイルパターン
+
+# ビルド出力ディレクトリ
+build/
+dist/
+
+# 依存関係ディレクトリ
+node_modules/
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+
+# 環境設定ファイル
+.env
+
+# キャッシュディレクトリ
+.cache/
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# 大容量データファイル
+*.csv
+*.json
+
+# IDEの設定ファイル
+.vscode/
+.idea/

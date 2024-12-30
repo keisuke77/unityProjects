@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: kubiFree
+  m_Mask: 01000000010000000000000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: "\u3081"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Ashi_IK_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Ashi_IK_L/Ashi_IK_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Ashi_IK_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Ashi_IK_R/Ashi_IK_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Hiza_IK_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Hiza_IK_L/Hiza_IK_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Hiza_IK_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Hiza_IK_R/Hiza_IK_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_L/Ninoude_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_L/Ninoude_L/Itinoude_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_L/Ninoude_L/Itinoude_L/Te_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_L/Ninoude_L/Itinoude_L/Te_L/Te_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_R/Ninoude_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_R/Ninoude_R/Itinoude_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_R/Ninoude_R/Itinoude_R/Te_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kata_R/Ninoude_R/Itinoude_R/Te_R/Te_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kubi"
+    m_Weight: 0
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kubi/Atama"
+    m_Weight: 0
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Dou/Kubi/Atama/Atama_end"
+    m_Weight: 0
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_L/Sune_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_L/Sune_L/Ashi_L"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_L/Sune_L/Ashi_L/Ashi_L_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_R/Sune_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_R/Sune_R/Ashi_R"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Hara/Hutomomo_R/Sune_R/Ashi_R/Ashi_R_end"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Suka-to"
+    m_Weight: 1
+  - m_Path: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2/Bone/Master/Suka-to/Suka-to_end"
+    m_Weight: 1
+  - m_Path: "\u30AB\u30E9\u30C0"
+    m_Weight: 1
+  - m_Path: "\u30D8\u30A2\u30FC"
+    m_Weight: 1
+  - m_Path: "\u30EF\u30F3\u30D4\u30FC\u30B9"
+    m_Weight: 1
+  - m_Path: "\u4E0A\u7740"
+    m_Weight: 1

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_RimLight
+  m_Shader: {fileID: 4800000, guid: 672638cb361f98147af5497bc2c988e7, type: 3}
+  m_Parent: {fileID: 2100000, guid: 1ff2503bd51be7a4a8cec25895234ef9, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e8beee36bf8c4184b821de5c80e18ec1, type: 3}
+        m_Scale: {x: -0.34, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _RimAmplitude: 1.77
+    - _RimPower: 3.2
+    m_Colors:
+    - _RimTint: {r: 0.06794548, g: 1, b: 0, a: 1}
+  m_BuildTextureStacks: []

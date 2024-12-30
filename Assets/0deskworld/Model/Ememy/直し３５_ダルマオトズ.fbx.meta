@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: fcc0784c75fd5fb4c9f80722463d1c58
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "\u7ACB\u3061"
+      takeName: "\u7ACB\u3061"
+      internalID: -6365370561801185491
+      firstFrame: 0
+      lastFrame: 62
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u3053\u3046\u3052\u304D.004"
+      takeName: "\u3053\u3046\u3052\u304D.004"
+      internalID: 479184207294447045
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.37058172
+        functionName: ontriger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5689731
+        functionName: offtriger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30C0\u30E1\u30FC\u30B8.002"
+      takeName: "\u30C0\u30E1\u30FC\u30B8.002"
+      internalID: 1692840437825500254
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u53CD\u5FDC.002"
+      takeName: "\u53CD\u5FDC.002"
+      internalID: 2239708409235337342
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u53CD\u5FDC.2"
+      takeName: "\u53CD\u5FDC.2"
+      internalID: -4623050588081811637
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u5F85\u6A5F.001"
+      takeName: "\u5F85\u6A5F.001"
+      internalID: 5837072690379342577
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u6C17\u7D76"
+      takeName: "\u6C17\u7D76"
+      internalID: 1078006686842572357
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u9032\u307F.002"
+      takeName: "\u9032\u307F.002"
+      internalID: -975747352237787437
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.1"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.1"
+      internalID: -5531059764547640550
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 207b36d8d7a56fa49aeebe797f0525cf,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.04322148
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 2ef28d9784f14b24fa760719530d5454,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5950758
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 462fc14e9003ac24a8664cd53ec037a4,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.2"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.2"
+      internalID: 4955523572913915365
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NearLookAt
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 207b36d8d7a56fa49aeebe797f0525cf,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.0252748
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 2ef28d9784f14b24fa760719530d5454,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.46683094
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 462fc14e9003ac24a8664cd53ec037a4,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.46865222
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: d4a6d0eadcb9e19439d762e30ea336f3,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.3"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.1.3"
+      internalID: 2704676720448553633
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 207b36d8d7a56fa49aeebe797f0525cf,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: NearLookAt
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.0431357
+        functionName: DOPlay
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 2ef28d9784f14b24fa760719530d5454,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4342659
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 462fc14e9003ac24a8664cd53ec037a4,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.4462149
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: d4a6d0eadcb9e19439d762e30ea336f3,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5142361
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 3c3542571bcb5d24d9d468d3e15cf94d,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.2"
+      takeName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2|\u3053\u3046\u3052\u304D.2"
+      internalID: -3796512980467849907
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.071598575
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: fde49134c2e15304890307493afa12fe,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.24881364
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: 747ac474195b7264d9b163fbe6e446f6,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37315035
+        functionName: ontrigerPram
+        data: 
+        objectReferenceParameter: {fileID: 11400000, guid: d2ba718e7ab82e84f93190d5edf3de66,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.88708514
+        functionName: SetBoolTrue
+        data: Stan
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "\u30B9\u30BF\u30F3"
+      takeName: "\u30C0\u30E1\u30FC\u30B8.002"
+      internalID: 1501709235966738425
+      firstFrame: 5
+      lastFrame: 12.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: "\u3073\u3063\u304F\u308A.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.00000011920927, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 99.999985, z: 76.78816}
+    - name: "\u304E\u3085\u3063.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u304F\u308B\u304F\u308B.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 29.934761, y: 29.934755, z: 34.860798}
+    - name: "\u306B\u3063\u3053\u308A.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u3059\u3084\u308A.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.142439, y: 27.142435, z: 27.142435}
+    - name: "\u30AB\u30E9\u30C0.01"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u3057\u308D\u3081/01"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u304F\u308D\u3081.01"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u307E\u3086\u3072\u3052"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u53F0.002"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u3073\u3063\u304F\u308A.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.00000011920927, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 99.999985, z: 76.78816}
+    - name: "\u304E\u3085\u3063.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u304F\u308B\u304F\u308B.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 29.934761, y: 29.934755, z: 34.860798}
+    - name: "\u306B\u3063\u3053\u308A.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u3059\u3084\u308A.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.142439, y: 27.142435, z: 27.142435}
+    - name: "\u304F\u308D\u3081.02"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u3057\u308D\u3081.02"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u30AB\u30E9\u30C0.02"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u53F0.001"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u3073\u3063\u304F\u308A"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.00000011920927, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 99.999985, z: 76.78816}
+    - name: "\u304E\u3085\u3063"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u304F\u308B\u304F\u308B"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 29.934761, y: 29.934755, z: 34.860798}
+    - name: "\u306B\u3063\u3053\u308A"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.80053, y: 27.800524, z: 27.800524}
+    - name: "\u3059\u3084\u308A"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: -0.000000059604634, z: -0.0000000149011585}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 27.142439, y: 27.142435, z: 27.142435}
+    - name: "\u304F\u308D\u3081"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u3057\u308D\u3081"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u30AB\u30E9\u30C0"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 70.690765, y: 60.05022, z: 50.868416}
+    - name: "\u53F0"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 126.4869, y: 107.44778, z: 91.0188}
+    - name: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      parentName: "\u76F4\u3057\uFF13\uFF15_\u30C0\u30EB\u30DE\u30AA\u30C8\u30BA(Clone)"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 17.567741, y: 16.97931, z: 16.97931}
+    - name: Box
+      parentName: "\u30A2\u30FC\u30DE\u30C1\u30E5\u30A2"
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box.001
+      parentName: Box
+      position: {x: -9.887064e-18, y: 0.1745914, z: -0.0013644069}
+      rotation: {x: 0.24794129, y: -0.00000007313863, z: -0.000000018717184, w: 0.9687751}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body.002
+      parentName: Box.001
+      position: {x: -2.360149e-12, y: 0.00029275892, z: -0.000015640258}
+      rotation: {x: 0.67572075, y: 0.000000055653985, z: -0.000000051019374, w: 0.7371577}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head.002
+      parentName: Body.002
+      position: {x: 2.8540316e-18, y: 0.00029249667, z: -0.052890062}
+      rotation: {x: 0.92691666, y: 0.00000004473894, z: -0.00000011050049, w: -0.3752674}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Head.002_end
+      parentName: Head.002
+      position: {x: -0, y: 0.10608649, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box.002
+      parentName: Box
+      position: {x: 1.3555163e-18, y: 0.09037274, z: 0.00018706023}
+      rotation: {x: 0.7071068, y: -0.00000005338509, z: -0.000000053385083, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body.001
+      parentName: Box.002
+      position: {x: -1.3676513e-12, y: 0.00016937016, z: -0.000009059906}
+      rotation: {x: 1, y: 9.111543e-17, z: -0.0000000754979, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head.001
+      parentName: Body.001
+      position: {x: 1.4943656e-18, y: 0.00016921997, z: -0.030598568}
+      rotation: {x: -0.534758, y: 0.2200616, z: -0.22006151, w: 0.78560793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head.001_end
+      parentName: Head.001
+      position: {x: -0, y: 0.0613744, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Box.003
+      parentName: Box
+      position: {x: -0, y: 0.030071735, z: 0}
+      rotation: {x: 0.7071068, y: -0.00000005338509, z: -0.000000053385083, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Box.003
+      position: {x: -1.3150726e-12, y: 0.00016289233, z: -0.00000870943}
+      rotation: {x: 1, y: 9.473977e-17, z: -0.0000000754979, w: -6.1232336e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Body
+      position: {x: 1.5528165e-18, y: 0.00016274929, z: -0.029427983}
+      rotation: {x: -0.5347579, y: -0.22006145, z: 0.22006144, w: 0.785608}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_end
+      parentName: Head
+      position: {x: -0, y: 0.059026454, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

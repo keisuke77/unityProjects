@@ -1,0 +1,21 @@
+{
+    "name": "ChatSystem",
+    "rootNamespace": "",
+    "references": [
+        "extensions",
+        "keiutility",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "CombatSystem",
+        "DOTween.Modules"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

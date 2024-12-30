@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Custom_OutlineShader_Ver3.3
+  m_Shader: {fileID: 4800000, guid: a58353ff289060b48991ff61d88a48a5, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 1db2aafa220bdac428f29f48a82e2b50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineMask:
+        m_Texture: {fileID: 2800000, guid: b817779f7fb33f94a85fd94a5df90287, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0
+    - _GlitchIntensity: 0.1
+    - _GlitchSpeed: 5
+    - _Hoge: 0
+    - _Hoge2: 0
+    - _Hoge3: 0
+    - _Hoge4: 0
+    - _Hoge5: 0
+    - _Hoge6: 0
+    - _Luminosity: 0.57
+    - _OutlineWidth: 0.1
+    - _RimAmplitude: 1
+    - _RimPower: 1
+    - _Saturation: 0.8
+    - _SpeedRainbow: 0.2
+    - _Spread: 2.36
+    - _Switch: 0
+    - _Switch2: 0
+    - _Switch3: 0
+    - _Switch4: 0
+    - _Switch5: 0
+    - _WaveScale: 1
+    m_Colors:
+    - _MainColor: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimTint: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
